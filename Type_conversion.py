@@ -18,3 +18,10 @@ i = 3 + int(h)
 print(i)
 j = float(h)
 print(j)
+
+
+
+a = "Apoorva"
+print(list(a))  # we use []
+print(tuple(a))  # we use ()
+print(set(a))  # we use {}
